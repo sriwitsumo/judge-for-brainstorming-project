@@ -1,0 +1,9 @@
+{
+  "name": "biogang-judging-committee",
+  "version": "0.1.0",
+  "description": "จำลองทีมระดมสมอง 2 มุม (เทค/ชีวะ) และคณะกรรมการอิสระ 5 ท่าน สำหรับคิดและกลั่นกรองไอเดียโครงงาน Biogang Challenge 2026 (Youth Acting For Nature Positive) — กรรมการแต่ละท่านรันเป็น agent แยก context จริง ประเมินอิสระก่อนเข้าสู่รอบซักถามและสรุปคะแนน",
+  "author": {
+    "name": "User"
+  },
+  "keywords": ["biogang", "nature-positive", "science-fair", "judging-committee", "ideation"]
+}
